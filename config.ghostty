@@ -1,0 +1,18 @@
+# Tokyo Night Storm — combinado com o Kitty
+# Aplicar: fechar e reabrir as janelas do Ghostty
+
+theme = TokyoNight Storm
+
+font-family = JetBrainsMono Nerd Font
+font-size = 12
+
+background-opacity = 0.92
+window-padding-x = 10
+window-padding-y = 10
+window-decoration = none
+
+cursor-style = bar
+cursor-color = #c0caf5
+cursor-text = #24283b
+
+command = /usr/bin/fish
